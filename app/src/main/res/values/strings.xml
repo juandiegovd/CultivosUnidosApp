@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CultivosApp</string>
+    <string name="title_schedule">Cronogramas</string>
+    <string name="title_resource">Recursos</string>
+    <string name="title_supplies">Insumos</string>
+    <string name="title_products">Productos</string>
+    <string name="title_sales">Ventas</string>
+    <string name="supply_tab">Insumos</string>
+    <string name="product_tab">Productos</string>
+</resources>

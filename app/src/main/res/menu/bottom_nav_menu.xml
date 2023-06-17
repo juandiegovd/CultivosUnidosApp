@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_schedule"
+        android:icon="@drawable/ic_baseline_calendar_today_24"
+        android:title="@string/title_schedule" />
+
+    <item
+        android:id="@+id/nav_resource"
+        android:icon="@drawable/ic_baseline_storefront_24"
+        android:title="@string/title_resource" />
+
+    <item
+        android:id="@+id/nav_sale"
+        android:icon="@drawable/ic_baseline_point_of_sale_24"
+        android:title="@string/title_sales" />
+
+</menu>
